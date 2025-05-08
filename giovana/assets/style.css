@@ -1,0 +1,10 @@
+body {
+    background-color: aqua;
+}
+
+footer {
+    background-color: white;
+    color: black
+    position: fixed; 
+    bottom: 0;
+}
